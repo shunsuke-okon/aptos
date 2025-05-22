@@ -1,0 +1,10 @@
+
+
+data_path: r"F:\DATASET\Phase_Recognition_of_Surgical_Videos_Using_ML"
+batch_size: 1
+num_workers: 4
+image_size: 224
+epoch: 100
+lr: 0.001
+weight_decay: 0.01
+save_interval: 20
